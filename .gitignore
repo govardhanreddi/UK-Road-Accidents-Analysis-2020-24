@@ -1,0 +1,21 @@
+# Large datasets and generated extracts
+*.csv
+*.parquet
+*.hyper
+*.zip
+
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
